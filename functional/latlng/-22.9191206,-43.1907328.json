@@ -1,0 +1,813 @@
+{
+    "plus_code": {
+        "compound_code": "3RJ5+9P Rio de Janeiro, State of Rio de Janeiro, Brazil",
+        "global_code": "589R3RJ5+9P"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "222",
+                    "short_name": "222",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rua do Oriente",
+                    "short_name": "R. do Oriente",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20240-130",
+                    "short_name": "20240-130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "R. do Oriente, 222 - Santa Teresa, Rio de Janeiro - RJ, 20240-130, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.919008,
+                        "lng": -43.1907688
+                    },
+                    "southwest": {
+                        "lat": -22.919123,
+                        "lng": -43.1908957
+                    }
+                },
+                "location": {
+                    "lat": -22.9190771,
+                    "lng": -43.1908141
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9177165197085,
+                        "lng": -43.1894832697085
+                    },
+                    "southwest": {
+                        "lat": -22.9204144802915,
+                        "lng": -43.1921812302915
+                    }
+                }
+            },
+            "place_id": "ChIJGT_esHV_mQAR2lQzsa7kWmM",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "234",
+                    "short_name": "234",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rua do Oriente",
+                    "short_name": "R. do Oriente",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20240-130",
+                    "short_name": "20240-130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "R. do Oriente, 234 - Santa Teresa, Rio de Janeiro - RJ, 20240-130, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -22.9192098,
+                    "lng": -43.1907461
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.91786081970849,
+                        "lng": -43.1893971197085
+                    },
+                    "southwest": {
+                        "lat": -22.9205587802915,
+                        "lng": -43.1920950802915
+                    }
+                }
+            },
+            "place_id": "ChIJqbFct3V_mQARuUWBBnzqTKA",
+            "plus_code": {
+                "compound_code": "3RJ5+8P Rio de Janeiro, State of Rio de Janeiro, Brazil",
+                "global_code": "589R3RJ5+8P"
+            },
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "728",
+                    "short_name": "728",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rua Miguel de Paiva",
+                    "short_name": "R. Miguel de Paiva",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20251-340",
+                    "short_name": "20251-340",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "R. Miguel de Paiva, 728 - Santa Teresa, Rio de Janeiro - RJ, 20251-340, Brazil",
+            "geometry": {
+                "location": {
+                    "lat": -22.9191301,
+                    "lng": -43.1907252
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9177811197085,
+                        "lng": -43.1893762197085
+                    },
+                    "southwest": {
+                        "lat": -22.9204790802915,
+                        "lng": -43.1920741802915
+                    }
+                }
+            },
+            "place_id": "EkNSLiBNaWd1ZWwgZGUgUGFpdmEsIDcyOCAtIFNhbnRhIFRlcmVzYSwgUmlvIGRlIEphbmVpcm8gLSBSSiwgQnJhemlsIhsSGQoUChIJK7VapHV_mQARUgoccw8odlQQ2AU",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "200-222",
+                    "short_name": "200-222",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rua do Oriente",
+                    "short_name": "R. do Oriente",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "20240-130",
+                    "short_name": "20240-130",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "R. do Oriente, 200-222 - Santa Teresa, Rio de Janeiro - RJ, 20240-130, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9189258,
+                        "lng": -43.1906799
+                    },
+                    "southwest": {
+                        "lat": -22.9191103,
+                        "lng": -43.1906993
+                    }
+                },
+                "location": {
+                    "lat": -22.9190178,
+                    "lng": -43.1906962
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9176690697085,
+                        "lng": -43.1893406197085
+                    },
+                    "southwest": {
+                        "lat": -22.92036703029151,
+                        "lng": -43.1920385802915
+                    }
+                }
+            },
+            "place_id": "ChIJATGTtnV_mQAROzDdPivoynI",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "20240",
+                    "short_name": "20240",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Santa Teresa, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9157931,
+                        "lng": -43.1849109
+                    },
+                    "southwest": {
+                        "lat": -22.9276916,
+                        "lng": -43.1972618
+                    }
+                },
+                "location": {
+                    "lat": -22.9199254,
+                    "lng": -43.1904547
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9157931,
+                        "lng": -43.1849109
+                    },
+                    "southwest": {
+                        "lat": -22.9276916,
+                        "lng": -43.1972618
+                    }
+                }
+            },
+            "place_id": "ChIJ9ZqjMJ5_mQAR4P2y4cSCBw8",
+            "types": [
+                "postal_code",
+                "postal_code_prefix"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "20251-390",
+                    "short_name": "20251-390",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "Rua Paulo de Azevedo",
+                    "short_name": "Rua Paulo de Azevedo",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rua Paulo de Azevedo - Santa Teresa, Rio de Janeiro - RJ, 20251-390, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9179168,
+                        "lng": -43.1904547
+                    },
+                    "southwest": {
+                        "lat": -22.9199255,
+                        "lng": -43.19287560000001
+                    }
+                },
+                "location": {
+                    "lat": -22.9188024,
+                    "lng": -43.1912788
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9175721697085,
+                        "lng": -43.1903161697085
+                    },
+                    "southwest": {
+                        "lat": -22.9202701302915,
+                        "lng": -43.1930141302915
+                    }
+                }
+            },
+            "place_id": "ChIJ01uWrnV_mQARp-AjVXOwfPA",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Santa Teresa, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9115562,
+                        "lng": -43.1770037
+                    },
+                    "southwest": {
+                        "lat": -22.9522557,
+                        "lng": -43.219439
+                    }
+                },
+                "location": {
+                    "lat": -22.9191206,
+                    "lng": -43.1907328
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9115562,
+                        "lng": -43.1770037
+                    },
+                    "southwest": {
+                        "lat": -22.9522557,
+                        "lng": -43.219439
+                    }
+                }
+            },
+            "place_id": "ChIJa41o8Lt_mQAR4DYcxhJPRAw",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.7460201,
+                        "lng": -43.0990395
+                    },
+                    "southwest": {
+                        "lat": -23.0828927,
+                        "lng": -43.7965385
+                    }
+                },
+                "location": {
+                    "lat": -22.9112301,
+                    "lng": -43.4452148
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.7460201,
+                        "lng": -43.0990395
+                    },
+                    "southwest": {
+                        "lat": -23.0828927,
+                        "lng": -43.7965385
+                    }
+                }
+            },
+            "place_id": "ChIJC7UkQv5-mQAR7llshDwliPk",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.7460327,
+                        "lng": -43.0969042
+                    },
+                    "southwest": {
+                        "lat": -23.0822288,
+                        "lng": -43.7950599
+                    }
+                },
+                "location": {
+                    "lat": -22.9068467,
+                    "lng": -43.1728965
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.7460327,
+                        "lng": -43.0969042
+                    },
+                    "southwest": {
+                        "lat": -23.0822288,
+                        "lng": -43.7950599
+                    }
+                }
+            },
+            "place_id": "ChIJW6AIkVXemwARTtIvZ2xC3FA",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -20.7632054,
+                        "lng": -40.9568207
+                    },
+                    "southwest": {
+                        "lat": -23.3689318,
+                        "lng": -44.8893205
+                    }
+                },
+                "location": {
+                    "lat": -22.9098755,
+                    "lng": -43.2094971
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -20.7632054,
+                        "lng": -40.9568207
+                    },
+                    "southwest": {
+                        "lat": -23.3689318,
+                        "lng": -44.8893205
+                    }
+                }
+            },
+            "place_id": "ChIJw4riypQYmAAR0IMFwRrDSQM",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 5.2717863,
+                        "lng": -28.650543
+                    },
+                    "southwest": {
+                        "lat": -34.0891,
+                        "lng": -73.9828169
+                    }
+                },
+                "location": {
+                    "lat": -14.235004,
+                    "lng": -51.92528
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 5.2717863,
+                        "lng": -28.650543
+                    },
+                    "southwest": {
+                        "lat": -34.0891,
+                        "lng": -73.9828169
+                    }
+                }
+            },
+            "place_id": "ChIJzyjM68dZnAARYz4p8gYVWik",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

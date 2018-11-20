@@ -1,0 +1,949 @@
+{
+    "plus_code": {
+        "compound_code": "P348+5H New York, NY, USA",
+        "global_code": "87G8P348+5H"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "33",
+                    "short_name": "33",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3817",
+                    "short_name": "3817",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Bogart St #33, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.7053762,
+                    "lng": -73.9335617
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.70672518029151,
+                        "lng": -73.9322127197085
+                    },
+                    "southwest": {
+                        "lat": 40.70402721970851,
+                        "lng": -73.93491068029151
+                    }
+                }
+            },
+            "place_id": "ChIJX_RnFU9ZwokRdlIyGNXbLH4",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Bogart St, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7055752,
+                        "lng": -73.93338349999999
+                    },
+                    "southwest": {
+                        "lat": 40.7051929,
+                        "lng": -73.9337461
+                    }
+                },
+                "location": {
+                    "lat": 40.7054136,
+                    "lng": -73.9335512
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7067330302915,
+                        "lng": -73.93221581970847
+                    },
+                    "southwest": {
+                        "lat": 40.7040350697085,
+                        "lng": -73.9349137802915
+                    }
+                }
+            },
+            "place_id": "ChIJX-Lc5ABcwokRY-khrewYVLQ",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "57",
+                    "short_name": "57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "57 Bogart St, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.7054716,
+                    "lng": -73.9334736
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7068205802915,
+                        "lng": -73.93212461970849
+                    },
+                    "southwest": {
+                        "lat": 40.7041226197085,
+                        "lng": -73.93482258029151
+                    }
+                }
+            },
+            "place_id": "ChIJJV5P-wBcwokRWcxY0dsr4jk",
+            "plus_code": {
+                "compound_code": "P348+5J New York, United States",
+                "global_code": "87G8P348+5J"
+            },
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "56",
+                    "short_name": "56",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3817",
+                    "short_name": "3817",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ],
+            "formatted_address": "56 Bogart St, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.705419,
+                    "lng": -73.93333849999999
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7067679802915,
+                        "lng": -73.93198951970848
+                    },
+                    "southwest": {
+                        "lat": 40.7040700197085,
+                        "lng": -73.9346874802915
+                    }
+                }
+            },
+            "place_id": "EiU1NiBCb2dhcnQgU3QsIEJyb29rbHluLCBOWSAxMTIwNiwgVVNBIhoSGAoUChIJmRCQ_ABcwokRY_Z4INdu_WoQOA",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "59-49",
+                    "short_name": "59-49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "59-49 Bogart St, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7056674,
+                        "lng": -73.9333296
+                    },
+                    "southwest": {
+                        "lat": 40.7053914,
+                        "lng": -73.933419
+                    }
+                },
+                "location": {
+                    "lat": 40.7055294,
+                    "lng": -73.9333743
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.70687838029149,
+                        "lng": -73.93202531970849
+                    },
+                    "southwest": {
+                        "lat": 40.7041804197085,
+                        "lng": -73.93472328029151
+                    }
+                }
+            },
+            "place_id": "ChIJmRCQ_ABcwokRYvZ4INdu_Wo",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Brooklyn, NY 11206, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.713373,
+                        "lng": -73.92758789999999
+                    },
+                    "southwest": {
+                        "lat": 40.6915989,
+                        "lng": -73.9574569
+                    }
+                },
+                "location": {
+                    "lat": 40.7047738,
+                    "lng": -73.9418603
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.713373,
+                        "lng": -73.92758789999999
+                    },
+                    "southwest": {
+                        "lat": 40.6915989,
+                        "lng": -73.9574569
+                    }
+                }
+            },
+            "place_id": "ChIJic4LiPlbwokRWEfLAAHDeSg",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "East Williamsburg, Brooklyn, NY, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7272913,
+                        "lng": -73.91985900000002
+                    },
+                    "southwest": {
+                        "lat": 40.7017728,
+                        "lng": -73.9420866
+                    }
+                },
+                "location": {
+                    "lat": 40.7158762,
+                    "lng": -73.93304289999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7272913,
+                        "lng": -73.91985900000002
+                    },
+                    "southwest": {
+                        "lat": 40.7017728,
+                        "lng": -73.9420866
+                    }
+                }
+            },
+            "place_id": "ChIJF5yHZaxewokR1ywIMOa8kPs",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Kings County, Brooklyn, NY, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.739446,
+                        "lng": -73.8333651
+                    },
+                    "southwest": {
+                        "lat": 40.551042,
+                        "lng": -74.05663
+                    }
+                },
+                "location": {
+                    "lat": 40.6528762,
+                    "lng": -73.95949399999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.739446,
+                        "lng": -73.8333651
+                    },
+                    "southwest": {
+                        "lat": 40.551042,
+                        "lng": -74.05663
+                    }
+                }
+            },
+            "place_id": "ChIJOwE7_GTtwokRs75rhW4_I6M",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Brooklyn, NY, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.739446,
+                        "lng": -73.8333651
+                    },
+                    "southwest": {
+                        "lat": 40.551042,
+                        "lng": -74.05663
+                    }
+                },
+                "location": {
+                    "lat": 40.6781784,
+                    "lng": -73.9441579
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.739446,
+                        "lng": -73.8333651
+                    },
+                    "southwest": {
+                        "lat": 40.551042,
+                        "lng": -74.05663
+                    }
+                }
+            },
+            "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "New York",
+                    "short_name": "New York",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "New York, NY, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.9175771,
+                        "lng": -73.70027209999999
+                    },
+                    "southwest": {
+                        "lat": 40.4773991,
+                        "lng": -74.25908989999999
+                    }
+                },
+                "location": {
+                    "lat": 40.7127753,
+                    "lng": -74.0059728
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.9175771,
+                        "lng": -73.70027209999999
+                    },
+                    "southwest": {
+                        "lat": 40.4773991,
+                        "lng": -74.25908989999999
+                    }
+                }
+            },
+            "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "New York, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.015865,
+                        "lng": -71.777491
+                    },
+                    "southwest": {
+                        "lat": 40.4773991,
+                        "lng": -79.7625901
+                    }
+                },
+                "location": {
+                    "lat": 43.2994285,
+                    "lng": -74.21793260000001
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.015865,
+                        "lng": -71.777491
+                    },
+                    "southwest": {
+                        "lat": 40.4773991,
+                        "lng": -79.7625901
+                    }
+                }
+            },
+            "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 71.5388001,
+                        "lng": -66.885417
+                    },
+                    "southwest": {
+                        "lat": 18.7763,
+                        "lng": 170.5957
+                    }
+                },
+                "location": {
+                    "lat": 37.09024,
+                    "lng": -95.712891
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 71.5388001,
+                        "lng": -66.885417
+                    },
+                    "southwest": {
+                        "lat": 18.7763,
+                        "lng": 170.5957
+                    }
+                }
+            },
+            "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

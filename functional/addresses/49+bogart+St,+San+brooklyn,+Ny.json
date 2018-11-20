@@ -1,0 +1,201 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Bogart St, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.7053762,
+                    "lng": -73.9335617
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.70672518029151,
+                        "lng": -73.9322127197085
+                    },
+                    "southwest": {
+                        "lat": 40.70402721970851,
+                        "lng": -73.93491068029151
+                    }
+                }
+            },
+            "place_id": "ChIJq-RZ4wBcwokRphEfNUIXMrk",
+            "plus_code": {
+                "compound_code": "P348+5H New York, United States",
+                "global_code": "87G8P348+5H"
+            },
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "49",
+                    "short_name": "49",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bogart Street",
+                    "short_name": "Bogart St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Williamsburg",
+                    "short_name": "East Williamsburg",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brooklyn",
+                    "short_name": "Brooklyn",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kings County",
+                    "short_name": "Kings County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "New York",
+                    "short_name": "NY",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "11206",
+                    "short_name": "11206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "49 Bogart St #22, Brooklyn, NY 11206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.7053762,
+                    "lng": -73.9335617
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.70672518029151,
+                        "lng": -73.9322127197085
+                    },
+                    "southwest": {
+                        "lat": 40.70402721970851,
+                        "lng": -73.93491068029151
+                    }
+                }
+            },
+            "place_id": "ChIJg6Xd5ABcwokRXuivLGZ0kpE",
+            "plus_code": {
+                "compound_code": "P348+5H New York, United States",
+                "global_code": "87G8P348+5H"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

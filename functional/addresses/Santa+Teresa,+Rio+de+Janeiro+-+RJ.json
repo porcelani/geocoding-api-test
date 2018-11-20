@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Santa Teresa",
+                    "short_name": "Santa Teresa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Rio de Janeiro",
+                    "short_name": "Rio de Janeiro",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "State of Rio de Janeiro",
+                    "short_name": "RJ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Brazil",
+                    "short_name": "BR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Santa Teresa, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.9115562,
+                        "lng": -43.1770037
+                    },
+                    "southwest": {
+                        "lat": -22.9522557,
+                        "lng": -43.219439
+                    }
+                },
+                "location": {
+                    "lat": -22.9191206,
+                    "lng": -43.1907328
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.9115562,
+                        "lng": -43.1770037
+                    },
+                    "southwest": {
+                        "lat": -22.9522557,
+                        "lng": -43.219439
+                    }
+                }
+            },
+            "place_id": "ChIJa41o8Lt_mQAR4DYcxhJPRAw",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        }
+    ],
+    "status": "OK"
+}
